@@ -4,7 +4,7 @@
 
 Esse projeto foi onstruido no evento _Next Level Week_ (NLW) da Rocketseat.
 
-🔗 [Clique aqui para acessar](https://github.com/matheusfdosan/nlw-esports-explorer)
+🔗 [Clique aqui para acessar](https://matheusfdosan.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
