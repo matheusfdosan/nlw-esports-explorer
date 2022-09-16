@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-Esse projeto foi onstruido no evento _Next Level Week_ (NLW) da Rocketseat.
+Esse projeto foi construido no evento _Next Level Week_ (NLW) da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://matheusfdosan.github.io/nlw-esports-explorer/)
 
