@@ -84,7 +84,7 @@ section p {
 
 ul {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   list-style: none;
 }
 
